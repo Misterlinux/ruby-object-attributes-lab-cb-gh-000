@@ -6,9 +6,9 @@ class Person
     @name=this_dude
   end
   def breed
-    @breed
+    @job
   end
-  def breed=(this_breed)
-    @breed=this_breed
+  def breed=(this_job)
+    @job=this_job
   end
 end
