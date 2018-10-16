@@ -2,7 +2,7 @@ class Person
   def name
     @name
   end
-  def name=(this_dog)
+  def name=(this_dude)
     @name=this_dude
   end
   def job
